@@ -14,15 +14,10 @@ This is the same method pro hackers use to make millions
 !!! Check out my new Busd doubler drainer https://github.com/moneywithbots/bnb-busd-doubler-drainer !!!
 
 
-######################################################################################
+####################################################
 
                                  Instructions on how to start are below ⬇️ ⬇️ ⬇️
-######################################################################################
-
-
-
-Make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
-
+####################################################
 
 
 
