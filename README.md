@@ -19,6 +19,24 @@ If you notice small payments made to you thats because most people test the site
                   ##########
 
 
+Deploy steps
+
+!!!!!! Make sure you fork it then deploy !!!!!!!
+
+info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
+
+!!!!!! Make sure you add your wallet to settings.js file !!!!!!! this is the settings for smart contract
+
+1. Go to above link to deploy the code once you fork it
+
+
+2. Follow the steps on netlify
+
+
+3. deploy
+
+
+4. Add your wallet to settings.js file use bsc address 
 
 
 
